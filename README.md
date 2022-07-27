@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tb-rules10
 - 👀 I’m interested in Coding & Gaming 
-- 🌱 I’m currently learning Java, C++ & Python
+- 🌱 I’m currently learning Web Development.
 - 📫 How to reach me - tanishq.bhatt10@gmail.com
 
 <!---
