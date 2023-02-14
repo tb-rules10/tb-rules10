@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tanishq
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently Flutter
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me - tanishq.bhatt10@gmail.com
 
 <p align="center">
