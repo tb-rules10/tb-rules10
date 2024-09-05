@@ -4,7 +4,7 @@
 - 📫 How to reach me - tanishq.bhatt10@gmail.com -->
  
 
-👋 Hi, I’m Tanishq<br>👀 I’m interested in Cybersecurity<br>🌱 I’m currently learning Flutter<br>📫 How to reach me - tanishq.bhatt10@gmail.com
+👋 Hi, I’m Tanishq<br>👀 I’m interested in Software Development<br>🌱 I’m currently learning Rust<br>📫 How to reach me - tanishq.bhatt10@gmail.com
 
 <!-- 
 ## 🌐 Socials:
