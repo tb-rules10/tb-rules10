@@ -1,6 +1,6 @@
 <!-- - 👋 Hi, I’m Tanishq
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Cloud Computing
 - 📫 How to reach me - tanishq.bhatt10@gmail.com -->
  
 
